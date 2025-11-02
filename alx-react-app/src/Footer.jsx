@@ -1,7 +1,7 @@
 function Footer() {
     return (
         <footer>
-            <p>© 2024 ALX. All rights reserved.</p>
+           <p>© 2023 City Lovers</p>
         </footer>
     );
 }

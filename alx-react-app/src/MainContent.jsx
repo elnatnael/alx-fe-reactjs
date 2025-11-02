@@ -1,8 +1,7 @@
 function MainContent() {
     return (
         <main>
-            <h2>Main Content Area</h2>
-            <p>This is where the main content of the application will go.</p>
+            <p>I love to visit New York, Paris, and Tokyo.</p>
         </main>
     );
 }
